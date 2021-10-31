@@ -103,7 +103,7 @@ if (!empty($_GET['error'])) {
                     <div class="panel panel-default">
                         <div class="panel-heading"><h6 class="panel-title"><i class="fa fa-user"></i> login</h6></div>
                         <div class="panel-body">
-							<img src="Undip.png" height="118" style="width:90px;height:100px;margin-left:110px">
+							<img src="logo.png" height="118" style="width:90px;height:100px;margin-left:110px">
 							<p align="center" class="style1">&nbsp;</p>
 							<p align="center" class="style1"> Information System Development for Controlling Plant Growth Parameters in Greenhouses Using Rule Base</p>
 							<div class="form-group has-feedback">
