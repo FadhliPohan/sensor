@@ -3,6 +3,8 @@
 include "templete/head.php";
 include "templete/sidebar.php";
 ?>
+
+<h1>haya</h1>
 <?php
 include "templete/script.php";
 ?>
