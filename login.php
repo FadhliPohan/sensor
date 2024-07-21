@@ -59,7 +59,7 @@
                                         <input type="password" class="form-control" id="exampleInputPassword1">
                                     </div>
 
-                                    <a href="../main/index.html" class="btn btn-primary w-100 py-8 mb-4 rounded-2">Sign In</a>
+                                    <button type="submit" class="btn btn-primary w-100 py-8 mb-4 rounded-2">Sign In</button>
 
                                 </form>
                             </div>
